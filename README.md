@@ -28,12 +28,22 @@ El sistema permite:
 ├── train/               # Notebooks o scripts de entrenamiento
 ├── samplers/            # Notebooks o scripts de generación
 ├── measures/            # Evaluación cuantitativa: FID, IS y BPD
+├── docs/                # Enunciado, report y notebook adicional del profesor
 ├── checkpoints/         # Modelos entrenados
 ├── samples/             # Imágenes generadas guardadas en formato .pt
 ├── data/                # Datasets utilizados
 ├── figures/             # Figuras empleadas en la memoria
 └── README.md
 ```
+
+## Documentación
+
+Puedes encontrar el informe completo, en español, aquí: [Ver informe](docs/DiffusionModels_Report.pdf).
+
+Además, en la carpeta [docs](docs/) también están disponibles:
+
+- El enunciado del proyecto: [generative_AI_project_AA3_2025_2026.pdf](docs/generative_AI_project_AA3_2025_2026.pdf)
+- El notebook adicional de guía del profesor, en inglés: [project_AAIII_16_Blazquez_Damas.ipynb](docs/project_AAIII_16_Blazquez_Damas.ipynb)
 
 ## Modelos implementados
 
